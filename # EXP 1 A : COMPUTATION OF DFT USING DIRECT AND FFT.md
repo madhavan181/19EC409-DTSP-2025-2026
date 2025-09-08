@@ -1,7 +1,7 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
 # AIM: 
-To Obtain DFT and FFT of a given sequence in SCILAB. 
+To Compute DFT using direct FFT of a given sequence. 
 
 # APPARATUS REQUIRED: 
 PC installed with SCILAB. 
